@@ -1,2 +1,2 @@
-# Information and resources related to the RecSys 2024 Conference
+# Information and Resources related to the RecSys 2024 Conference
 TBD
