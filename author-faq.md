@@ -2,8 +2,8 @@
 
 ## 1. What article format should I use?
 The submission format is different this year than in previous years. In particular, submissions for review now use a two-column format instead of the single-column format in previous years. This avoids problems and confusion, since in past years accepted papers had to be reformatted for publication.
-## 4. What is the actual maximum length of the auxiliary material?
-There is no restriction on the length of the auxiliary material. This material should provide details on the paper that enhance preproducibility (e.g., proof details, experiment details). Furthermore, this material may help reviewers understand the paper, but reviewers are not required to read it and the auxiliary material is not considered peer reviewed. You may also submit video material and/or source codes. To submit multiple files, please zip them before submitting.
+## 4. What is the maximum length of the auxiliary material?
+There is no restriction on the length of the auxiliary material. This material should provide details on the paper that enhance preproducibility (e.g., proof details, experiment details). Furthermore, this material may help reviewers understand the paper, but reviewers are not required to read it and the auxiliary material is not considered peer reviewed. You may also submit video material and/or source code. To submit multiple files, please zip them before submitting.
 ## 5. The instructions mention “excluding references”. Does it also exclude appendices?
 No, appendices are counted towards the paper length if they are included in the main paper, as opposed to the auxiliary material.
 ## 6. Are appendices allowed?
